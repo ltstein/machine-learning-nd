@@ -1,0 +1,6 @@
+Naïve Bayes-Gaussian,,,
+Training Size,300,200,100
+Training Time,0.001,0.001,0.001
+Prediction Time,0,0.001,0
+F1 Score Training,0.804,0.841,0.847
+F1 Score Test,0.763,0.724,0.803

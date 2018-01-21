@@ -1,0 +1,6 @@
+SVM,,,
+Training Size,300,200,100
+Training Time,0.008,0.003,0.001
+Prediction Time,0.005,0.003,0.001
+F1 Score Training,0.876,0.868,878
+F1 Score Test,0.784,0.781,0.775

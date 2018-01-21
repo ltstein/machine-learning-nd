@@ -1,0 +1,6 @@
+Decision Tree,,,
+Training Size,300,200,100
+Training Time,0.003,0.002,0.001
+Prediction Time,0.001,0,0
+F1 Score Training,1,1,1
+F1 Score Test,0.617,0.748,0.643
